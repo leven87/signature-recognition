@@ -24,3 +24,5 @@ More detais are available [here](http://www.iapr-tc11.org/mediawiki/index.php?ti
 Anisio Marques Junior - [anisiomarxjr](https://github.com/anisiomarxjr)
 
 ---
+
+[![Run on Repl.it](https://repl.it/badge/github/leven87/signature-recognition)](https://repl.it/github/leven87/signature-recognition)
